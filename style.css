@@ -1,0 +1,100 @@
+
+
+html {
+    overflow-y: scroll;
+}
+
+  
+body {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    height: 100%;
+}
+
+
+hr {
+    margin: 29px 0;
+    height: 3px;
+    background-color: #ddd;
+    border: 20;
+}
+
+h1, .logo {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    background-color: rgb(218, 198, 236);
+    font-size: larger;
+    font-weight: bold;
+    font-style: initial;
+    padding: 20px;
+    border: none;
+}
+
+.nav-item {
+    z-index: 10;
+    top: 0;
+    padding: 10px;
+
+
+}
+.navbar-index {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: purple;
+    font-weight: bolder;
+}
+
+
+.Container {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding: 20px 10px;
+    border: solid 1px #ddd;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.mypicture {
+    height: 250px;
+    float: left;
+    margin: 0 25px 25px 0;
+    border: 1px solid #ddd;
+}
+
+p {
+    margin-bottom: 20px;
+    color: #777;
+    font-size: 14px;
+    line-height: 1.8em;
+    margin-top: -8px;
+}
+
+
+.contactContainer {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding: 20px 10px;
+    border: solid 1px #ddd;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.portfolioContainer  {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding: 20px 10px;
+    border: solid 1px #ddd;
+    margin-left: 400px;
+    margin-right: 470px;
+}
+
+
+.img-responsive {  
+    width: 275px;
+    height: 206px;
+    padding: 10%;
+ }
+
+
