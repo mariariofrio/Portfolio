@@ -56,8 +56,8 @@ h3 {
         margin-bottom: 100px;
         padding: 20px 10px;
         border: solid 1px #ddd;
-        margin-left: 400px;
-        margin-right: 400px;
+        /* margin-left: 400px; */
+        /* margin-right: 400px; */
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .mypicture {
@@ -81,8 +81,8 @@ p {
     margin-bottom: 100px;
     padding: 20px 10px;
     border: solid 1px #ddd;
-    margin-left: 400px;
-    margin-right: 400px;
+    /* margin-left: 400px; */
+    /* margin-right: 400px; */
 }
 
 .containerPortfolio {
@@ -90,8 +90,8 @@ p {
     margin-bottom: 100px;
     padding: 20px 10px;
     border: solid 1px #ddd;
-    margin-left: 400px;
-    margin-right: 400px;
+    /* margin-left: 400px; */
+    /* margin-right: 400px; */
 }
 
 
