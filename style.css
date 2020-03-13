@@ -52,15 +52,14 @@ h3 {
 }
 
 .Container {
-    margin-top: 25px;
-    margin-bottom: 100px;
-    padding: 20px 10px;
-    border: solid 1px #ddd;
-    margin-left: 400px;
-    margin-right: 400px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        margin-top: 25px;
+        margin-bottom: 100px;
+        padding: 20px 10px;
+        border: solid 1px #ddd;
+        margin-left: 400px;
+        margin-right: 400px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 .mypicture {
     height: 200px;
     float: left;
@@ -86,28 +85,14 @@ p {
     margin-right: 400px;
 }
 
-.portfolioContainer  {
+.containerPortfolio {
     margin-top: 25px;
     margin-bottom: 100px;
-    padding: 20px 15px;
+    padding: 20px 10px;
     border: solid 1px #ddd;
     margin-left: 400px;
-    margin-right: 550px;
+    margin-right: 400px;
 }
 
-.hrportfolio {
-        margin-right: -100px;
-        height: 3px;
-        background-color: #ddd;
-        border: 30;
-    }
-    
-
-.img-responsive {  
-    width: 270px;
-    height: 206px;
-    padding: 15%;
-    margin-left: 1em;
- }
 
 
