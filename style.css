@@ -1,29 +1,16 @@
 
-
 html {
     overflow-y: scroll;
 }
 
-  
 body {
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
     height: 100%;
+    background: url(../websiteaboutme/images/background.jpg);
+    background-size: cover;
 }
 
-
-hr {
-    margin: 29px 0;
-    height: 3px;
-    background-color: #ddd;
-    border: 20;
-}
-
-h1, .logo {
-    font-family: Georgia, Times, 'Times New Roman', serif;
-    font-size: 1.5em;
-    font-weight: bold;
-}
-
+/* navbar */
 .navbar-brand {
     background-color: rgb(218, 198, 236);
     font-size: larger;
@@ -40,12 +27,29 @@ h1, .logo {
 
 
 }
-.navbar-index {
+.navbar-brandindex {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: purple;
+    color: white;
     font-weight: bolder;
+    background-color: rgb(128, 74, 128);
+    background-size: 400px;
+    padding: 20px;
 }
 
+/* end of navbar */
+
+hr {
+    margin: 29px 0;
+    height: 3px;
+    background-color: #ddd;
+    border: 20;
+}
+
+h3 {
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    font-weight: bold;
+}
 
 .Container {
     margin-top: 25px;
@@ -54,10 +58,11 @@ h1, .logo {
     border: solid 1px #ddd;
     margin-left: 400px;
     margin-right: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .mypicture {
-    height: 250px;
+    height: 200px;
     float: left;
     margin: 0 25px 25px 0;
     border: 1px solid #ddd;
@@ -65,7 +70,7 @@ h1, .logo {
 
 p {
     margin-bottom: 20px;
-    color: #777;
+    color: black;
     font-size: 14px;
     line-height: 1.8em;
     margin-top: -8px;
@@ -84,17 +89,25 @@ p {
 .portfolioContainer  {
     margin-top: 25px;
     margin-bottom: 100px;
-    padding: 20px 10px;
+    padding: 20px 15px;
     border: solid 1px #ddd;
     margin-left: 400px;
-    margin-right: 470px;
+    margin-right: 550px;
 }
 
+.hrportfolio {
+        margin-right: -100px;
+        height: 3px;
+        background-color: #ddd;
+        border: 30;
+    }
+    
 
 .img-responsive {  
-    width: 275px;
+    width: 270px;
     height: 206px;
-    padding: 10%;
+    padding: 15%;
+    margin-left: 1em;
  }
 
 
