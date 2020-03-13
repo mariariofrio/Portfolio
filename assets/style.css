@@ -10,6 +10,8 @@ body {
     background-size: cover;
 }
 
+
+
 /* navbar */
 .navbar-brand {
     background-color: rgb(218, 198, 236);
@@ -51,20 +53,20 @@ h3 {
     font-weight: bold;
 }
 
-.Container {
+.container {
     margin-top: 25px;
     margin-bottom: 100px;
     padding: 20px 15px;
     border: solid 1px #ddd;
-    /* margin-left: 400px; */
-    /* margin-right: 400px; */
+    /* margin-left: 400px;
+    margin-right: 400px; */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .mypicture {
-    height: 200px;
-    /* float: left; */
-    /* margin: 0 25px 25px 0; */
+    height: 200%;
+    /* float: left;
+    margin: 0 25px 25px 0; */
     border: 1px solid #ddd;
 }
 
@@ -82,18 +84,10 @@ p {
     margin-bottom: 100px;
     padding: 20px 10px;
     border: solid 1px #ddd;
-    margin-left: 400px;
-    margin-right: 400px;
+    /* margin-left: 400px;
+    margin-right: 400px; */
 }
 
-.portfolioContainer  {
-    margin-top: 25px;
-    margin-bottom: 100px;
-    padding: 20px 15px;
-    border: solid 1px #ddd;
-    /* margin-left: 400px; */
-    /* margin-right: 550px; */
-}
 
 .hrportfolio {
         /* margin-right: -100px; */
